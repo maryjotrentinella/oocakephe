@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooxeileoda.lolaolah.com/sitemap.xml
